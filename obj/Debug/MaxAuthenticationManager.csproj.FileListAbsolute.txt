@@ -1,0 +1,33 @@
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\MaxAuthenticationManager.exe
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\MaxAuthenticationManager.exe.config
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.FormLogin.resources
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.FormMain.resources
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.Properties.Resources.resources
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.csproj.GenerateResource.Cache
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.exe
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.pdb
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\MaxAuthenticationManager.pdb
+D:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.csprojResolveAssemblyReference.cache
+F:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\MaxAuthenticationManager.exe.config
+F:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\MaxAuthenticationManager.exe
+F:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\MaxAuthenticationManager.pdb
+F:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.FormLogin.resources
+F:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.FormMain.resources
+F:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.Properties.Resources.resources
+F:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.csproj.GenerateResource.Cache
+F:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.exe
+F:\Dubai Work\Mobility P Sollutions\Projects\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.pdb
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\MaxAuthenticationManager.exe.config
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\MaxAuthenticationManager.exe
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\MaxAuthenticationManager.pdb
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.FormLogin.resources
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.FormMain.resources
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.Properties.Resources.resources
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.csproj.GenerateResource.Cache
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.exe
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.pdb
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\CrystalDecisions.Shared.dll
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\bin\Debug\CrystalDecisions.Web.dll
+F:\Dubai Work\Mobility P Sollutions\Projects\MAXxEMV Centerlised Solution\Windows Services\maxemv\maxService\MaxAuthenticationManager\obj\Debug\MaxAuthenticationManager.csprojResolveAssemblyReference.cache
